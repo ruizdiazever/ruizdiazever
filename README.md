@@ -1,8 +1,6 @@
-### Hey! I'm [@EverToujours](https://twitter.com/EverToujours) (Ever Ruiz Diaz) 👋
+### Hey! I'm Ever Ruiz Diaz 👋
 
 I am a Software Developer currently focused on Rust 🦀, React ⚛️ and Python 🐍.
-
-My personal website is [everdev.it](https://www.everdev.it/)
 
 ### 💼 Some of my projects
 
