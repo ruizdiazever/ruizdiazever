@@ -1,4 +1,4 @@
-### Hey! I'm Ever Ruiz Diaz 👋
+## Hey! I'm Ever Ruiz Diaz 👋
 
 I am a Software Developer currently focused on Rust 🦀, React ⚛️ and Python 🐍.
 
@@ -7,7 +7,7 @@ I am a Software Developer currently focused on Rust 🦀, React ⚛️ and Pytho
 * 🦀 [Cripto bot](https://github.com/ruizdiazever/bot-crypto) - A bot that automatically sends you personality alerts on cryptocurrency prices.
 * 🚀 [BERLi](https://www.berli.app) - Asynchronous management and communication software.
 
-### About me
+### 😃 About me
 
 * 🌍 I'm living in Rome, Italy
 * 💻 I code in different languages: Python, JavaScript, Bash
