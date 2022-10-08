@@ -4,7 +4,7 @@ I am a Software Developer currently focused on Rust 🦀, React ⚛️ and Pytho
 
 ### 💼 Some of my projects
 
-* 🤖 [botOS](https://github.com/ruizdiazever/bot-crypto) - A bot that automatically sends you personality alerts on cryptocurrency prices.
+* 🤖 [BotOS](https://github.com/ruizdiazever/bot-crypto) - A bot that automatically sends you personality alerts on cryptocurrency prices.
 * 💬 [BERLi](https://www.berli.app) - Asynchronous management and communication software.
 
 ### 😃 About me
