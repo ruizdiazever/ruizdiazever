@@ -1,6 +1,6 @@
 ## Hey! I'm Ever Ruiz Diaz 👋
 
-I am a Software Developer currently focused on Rust 🦀, React ⚛️ and Python 🐍
+I am a Software Developer currently focused on Rust 🦀, Svelte ⚛️, GraphQL ⚙️ and Python 🐍
 
 ### 💼 Some of my projects
 
