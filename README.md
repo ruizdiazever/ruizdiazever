@@ -5,7 +5,7 @@ I am a Software Developer currently focused on Rust 🦀, Svelte ⚛️, GraphQL
 ### 💼 Some of my projects
 
 * 🤖 [Pukavy](https://github.com/ruizdiazever/pukavy) - A bot that automatically sends you personality alerts on cryptocurrency prices.
-* 🧩 [Zentrum](https://www.everdev.it) - Portfolio and my main web service
+* 🧩 [Zentrum](https://www.everdev.it) - Portfolio and my main web service.
 * 💬 [BERLi](https://www.berli.app) - Asynchronous management and communication software.
 
 ### 😃 About me
