@@ -1,18 +1,13 @@
 ## Hey! I'm Ever Ruiz Diaz 👋
 
-I am a Software Developer currently focused on Rust 🦀, Svelte ⚛️, GraphQL ⚙️ and Python 🐍
-
-### 💼 Some of my projects
-
-* 🤖 [Kunasagi](https://github.com/ruizdiazever/kunasagi) - A bot that automatically sends you personality alerts on cryptocurrency prices.
-* 🧩 [Zentrum](https://www.everdev.it) - Portfolio and my main web service.
-* 💬 [BERLi](https://www.berli.app) - Asynchronous management and communication software.
+I am a Software Developer currently focused on Rust 🦀 and IoT embedded systems!
 
 ### 😃 About me
 
 * 🌍 I'm living in Rome, Italy
 * 💻 I code in different languages: Python, JavaScript, Bash
-* 🌱 I'm currently studying Rust
+* ♥️ Favorite technologies: Axum, FastAPI, TailwindCSS, PostgreSQL, Flutter, Podman and Svelte
+* 🌱 I'm currently studying Rust and Flutter
 * 🐧 I love GNU/Linux
 * 🌐 I speak English, Spanish and Italian
 
