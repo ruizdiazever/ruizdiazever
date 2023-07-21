@@ -7,7 +7,7 @@ I am use more [GitLab](https://gitlab.com/ruizdiazever)
 
 * 🌍 I'm living in Rome, Italy
 * 💻 I code in different languages: Python, JavaScript, Bash
-* ♥️ Favorite technologies: Axum, FastAPI, TailwindCSS, PostgreSQL, Flutter, Podman and Svelte
+* ♥️ Favorite technologies: FastAPI, TailwindCSS, PostgreSQL, Flutter, Podman and Svelte
 * 🌱 I'm currently studying Rust and Flutter
 * 🐧 I love GNU/Linux
 * 🌐 I speak English, Spanish and Italian
