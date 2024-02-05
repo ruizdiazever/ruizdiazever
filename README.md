@@ -6,9 +6,9 @@ I am use more [GitLab](https://gitlab.com/ruizdiazever)
 ### 😃 About me
 
 * 🌍 I'm living in Rome, Italy
-* 💻 I code in different languages: Python, JavaScript, Bash
-* ♥️ Favorite technologies: Axum, PostgreSQL, FastAPI, TailwindCSS, Podman and Svelte
-* 🌱 I'm currently studying and obsessing about Rust
+* 💻 I code in different languages: Rust, Python, JavaScript, Bash
+* ♥️ Favorite technologies: Axum, PostgreSQL, GraphQL, Astro, Svelte
+* 🌱 I'm currently obsessing about Rust and IoT embedded systems!
 * 🐧 I love GNU/Linux
 * 🌐 I speak English, Spanish and Italian
 
