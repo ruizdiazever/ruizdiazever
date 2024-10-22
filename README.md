@@ -14,4 +14,4 @@ I am a Software Developer currently focused on Rust 🦀 and IoT embedded system
 ### 📊 My stats
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=ruizdiazever&show_icons=true&theme=calm&count_private=true) -->
-![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizdiazever&layout=compact&theme=calm&count_private=true&hide=SCSS,Less,Java&langs_count=8)
+![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizdiazever&layout=compact&theme=calm&count_private=true&hide=SCSS,Less,Java,Python&langs_count=8)
