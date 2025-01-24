@@ -1,12 +1,12 @@
 ## Hey! I'm Ever Ruiz Diaz 👋
 
-I am a Software Developer currently focused on Rust 🦀 and IoT embedded systems!  
+I am a Software Developer Engineer currently focused on Rust 🦀 and IoT embedded systems!  
 
 ### 😃 About me
 
 * 🌍 I'm living in Rome, Italy
-* 💻 I code in different languages: Rust, Python, JavaScript, Bash
-* ♥️ Favorite technologies: Axum, PostgreSQL, GraphQL, Astro, Svelte
+* 💻 I code in different languages: Rust, Bash and TS for web related side projects.
+* ♥️ Favorite technologies: [Axum](https://crates.io/crates/axum), PostgreSQL, GraphQL ([async-graphql](https://crates.io/crates/async-graphql)), [Astro](https://astro.build/), [Svelte](https://svelte.dev/)
 * 🌱 I'm currently obsessing about Rust and IoT embedded systems!
 * 🐧 I love GNU/Linux
 * 🌐 I speak English, Spanish and Italian
