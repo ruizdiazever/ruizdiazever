@@ -24,7 +24,7 @@ I am a Software Developer Engineer currently focused on Rust 🦀 and IoT embedd
 * **[PostgreSQL](https://www.postgresql.org/)**: Advanced relational database with JSON support.
 * **[Leptos](https://leptos.dev/)**: Full-stack Rust framework with Signals reactivity.
 * **[Fedora Server](https://getfedora.org/server/)**: Stable Linux distro for production environments.
-* **[SQLx](https://crates.io/crates/sqlx)**: Async PostgreSQL toolkit with query verification.
+* **[SQLx](https://crates.io/crates/sqlx)**: Async PostgreSQL toolkit with query verification for Rust.
 * **[Proxmox](https://www.proxmox.com/)**: Enterprise open-source virtualization platform.
 * **[Starlight](https://starlight.astro.build/)**: Modern documentation builder powered by Astro.
 * **[Tailscale](https://tailscale.com/)**: WireGuard-based mesh VPN for secure networking.
