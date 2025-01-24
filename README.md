@@ -15,10 +15,11 @@ I am a Software Developer Engineer currently focused on Rust 🦀 and IoT embedd
 
 * **[Rust](https://www.rust-lang.org/)**: Systems programming language focused on safety and performance. 🦀
 * **[Axum](https://crates.io/crates/axum)**: Ergonomic and modular web framework for Rust. 🦀
+* **[async-graphql](https://crates.io/crates/async-graphql)**: High-performance GraphQL server library for Rust. 🦀
+* **[Meilisearch](https://www.meilisearch.com/)**: Open-source next generation search powered by Rust. 🦀
 * **[Zed](https://zed.dev/)**: Next-generation code editor, designed for high-performance collaboration with humans and AI. 🦀
 * **[Warp](https://www.warp.dev/)**: Modern, Rust-based terminal with AI integration. 🦀
 * **[Firefox](https://www.mozilla.org/firefox/)**: Privacy-focused, open-source web browser.
-* **[async-graphql](https://crates.io/crates/async-graphql)**: High-performance GraphQL server library for Rust. 🦀
 * **[Caddy](https://caddyserver.com/)**: Modern web server with automatic HTTPS. 🌐
 * **[RISC-V](https://riscv.org/)**: Open-source processor architecture for IoT and embedded systems.
 * **[Grafana](https://grafana.com/)**: Real-time metric monitoring and data visualization.
