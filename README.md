@@ -6,7 +6,7 @@ I am a Software Developer Engineer currently focused on Rust 🦀 and IoT embedd
 
 * 🌍 I'm living in Rome, Italy
 * 💻 I code in different languages: Rust, Bash and TS for web related side projects.
-* ♥️ Favorite technologies: [Axum](https://crates.io/crates/axum), PostgreSQL, GraphQL ([async-graphql](https://crates.io/crates/async-graphql)), [Astro](https://astro.build/), [Svelte](https://svelte.dev/)
+* ♥️ Favorite technologies: [Rust](https://www.rust-lang.org/), [Axum](https://crates.io/crates/axum), [PostgreSQL](https://www.postgresql.org/), [Astro](https://astro.build/), [Svelte](https://svelte.dev/)
 * 🌱 I'm currently obsessing about Rust and IoT embedded systems!
 * 🐧 I love GNU/Linux
 * 🌐 I speak English, Spanish and Italian
@@ -46,6 +46,8 @@ I am a Software Developer Engineer currently focused on Rust 🦀 and IoT embedd
 * **[reqwest](https://crates.io/crates/reqwest)**: HTTP client for Rust with async support. 🦀
 * **[Astro](https://astro.build/)**: Modern static site generator for fast web apps. 🌐
 * **[TailwindCSS](https://tailwindcss.com/)**: Utility-first CSS framework for rapid responsive designs. 🌐
+* **[vLLM](https://docs.vllm.ai/en/latest/)**: A fast and easy-to-use library for LLM inference and serving. 🤖
+* **[Zed](https://zed.dev/)**: A next-generation code editor designed for high-performance collaboration with humans and AI. 🤖
 
 ### 📊 My stats
 
