@@ -48,8 +48,3 @@ I am a Software Developer Engineer currently focused on Rust 🦀 and IoT embedd
 * **[TailwindCSS](https://tailwindcss.com/)**: Utility-first CSS framework for rapid responsive designs. 🌐
 * **[vLLM](https://docs.vllm.ai/en/latest/)**: A fast and easy-to-use library for LLM inference and serving. 🤖
 * **[Zed](https://zed.dev/)**: A next-generation code editor designed for high-performance collaboration with humans and AI. 🤖
-
-### 📊 My stats
-
-<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=ruizdiazever&show_icons=true&theme=calm&count_private=true) -->
-![Code](https://github-readme-stats.vercel.app/api/top-langs/?username=ruizdiazever&layout=compact&theme=calm&count_private=true&hide=SCSS,Less,Java,Python&langs_count=8)
