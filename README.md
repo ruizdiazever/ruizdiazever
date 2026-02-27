@@ -19,7 +19,7 @@ I am a Software Developer Engineer currently focused on Rust 🦀!
 
 #### Web
 * **[Astro](https://astro.build/)**: Modern static site generator for fast web apps. 🌐
-* **[Svelte](https://svelte.dev/)**: a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work in the browser.
+* **[Svelte](https://svelte.dev/)**: a UI framework that uses a compiler to let you write breathtakingly concise components that do minimal work.
 * **[Starlight](https://starlight.astro.build/)**: Modern documentation builder powered by Astro.
 * **[shadcn-svelte](https://www.shadcn-svelte.com/)**: Elegant UI components for Svelte with Tailwind customization. 🌐
 * **[TailwindCSS](https://tailwindcss.com/)**: Utility-first CSS framework for rapid responsive designs. 🌐
@@ -59,4 +59,4 @@ I am a Software Developer Engineer currently focused on Rust 🦀!
 * **[Cap](https://cap.so/)**: beautiful, shareable screen recordings. 🦀
 
 #### Current AI of choice
-* **[GLM 5](https://z.ai/blog/glm-5)**: a Z.ai's flagship open-source foundation model engineered for complex systems design and long-horizon agent workflows. 🤖
+* **[GLM 5](https://z.ai/blog/glm-5)**: a Z.ai's flagship open-source foundation model engineered for complex systems design. 🤖
